@@ -106,4 +106,5 @@ function addEvents(){
 	document.querySelector("table").addEventListener("click", clickme)
 };
 // call the initialize function 
+
 document.addEventListener('DOMContentLoaded',initialize)
